@@ -1,0 +1,89 @@
+body{
+    background-color: white;
+    font-family: 'Open Sans', sans-serif;
+    margin: 0 auto;
+    padding: 0;
+    width: 80%;
+    height: 2000px;
+
+}
+
+.header{
+    color: indianred;
+    margin: 0 auto;
+    padding: 20px;
+    text-align: center;
+    font-weight: 700;
+}
+
+.firstDiv{
+    margin: 0 auto;
+    color: white;
+    background-color: indianred;
+    border-radius: 20px;
+    padding: 30px;
+    margin-bottom: 30px;
+}
+
+.numbersTitle{
+    margin: 0 auto;
+    text-align: center;
+    font-weight: 700;
+    font-size: xx-large;
+    margin: 30xp;
+    padding: 20px;
+}
+
+.navs{
+    font-weight: 700;
+    font-size: 20px;
+    color: indianred;
+    margin-left: 20px;
+}
+
+
+.navText{
+    color: indianred;
+    margin-left: 20px;
+}
+
+.preporaka{
+    color: indianred;
+    margin: 0 auto;
+    padding: 20px;
+    text-align: center;
+    font-weight: 700;
+}
+
+.nav-pills .nav-link.active {
+    background-color: indianred !important;
+    color: white !important;
+}
+
+.nav-pills .nav-link  {
+    background-color: white !important;
+    color: indianred !important;
+}
+.video {
+    height: 300px;
+}
+
+#tableBody tr.tbHeader, #tableBody tr:hover {
+    background-color: indianred;
+    color: white;
+    font-weight: bold;
+  }
+.border{
+    border: white solid;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+.prashanje{
+    font-weight: 700;
+}
+.picture{
+    text-align: center;
+    display: block;
+    margin: 0 auto;
+}
